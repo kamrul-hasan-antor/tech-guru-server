@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "63579335d37c11f78d176c3a",
+    "view": 600,
+    "picture": "https://as1.ftcdn.net/v2/jpg/03/04/97/12/1000_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg",
+    "rating": 35,
+    "name": "React",
+    "price": "3400",
+    "duration": "3 month",
+    "category_id": "01",
+    "about": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.Jun 27, 2022.React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.It's an open-source and component-based framework responsible for creating the application's view layer. ReactJs follows the Model View Controller (MVC) architecture, and the view layer is accountable for handling mobile and web apps. React is famous for building single-page applications and mobile apps"
+  },
+  {
+    "_id": "635793358767b9029ecb1b71",
+    "view": 500,
+    "picture": "https://as1.ftcdn.net/v2/jpg/04/75/01/94/1000_F_475019480_qhU59bJx1Eoiko8i8TpJhEyUNctHRqWm.jpg",
+    "rating": 4.5,
+    "category_id": "02",
+    "name": "Flutter",
+    "duration": "3 month",
+    "price": "4000",
+    "about": "What is Flutter? Flutter is Google's portable UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. Flutter. Original author(s) Google. Flutter is a free and open-source mobile UI framework created by Google and released in May 2017. In a few words, it allows you to create a native mobile application with only one codebase. This means that you can use one programming language and one codebase to create two different apps (for iOS and Android)"
+  },
+  {
+    "_id": "63579335e900eb5c57012f86",
+    "view": 900,
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc",
+    "rating": 3.3,
+    "category_id": "03",
+    "name": "Python",
+    "duration": "3 month",
+    "price": "3000",
+    "about": "Find Learn Python From Basics. Now with us! Search For Learn Python From Basics at Discovertoday.co. Search Now. Awesome Info. Get Latest Info. Relevant Results. Find it Here. Fast Response. Latest Today. Updated Info. Get More Results. Attractive Results.  Python is a dynamic, high-level, free open source, and interpreted programming language. It supports object-oriented programming as well as procedural-oriented programming. In Python, we don't need to declare the type of variable because it is a dynamically typed language.Aug 8, 2022 .Python is an interpreted, interactive, object-oriented programming language. It incorporates modules, exceptions, dynamic typing, very high level dynamic data types, and classes. It supports multiple programming paradigms beyond object-oriented programming, such as procedural and functional programming "
+  },
+  {
+    "_id": "6357933516b95353f0069ed4",
+    "view": 800,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433",
+    "rating": 4.5,
+    "category_id": "04",
+    "name": "JavaScript",
+    "duration": "3 month",
+    "price": "3500",
+    "about": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices. JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design"
+  },
+  {
+    "_id": "63579335a70a9499bcf11d1a",
+    "view": 100,
+    "picture": "https://cdn-icons-png.flaticon.com/512/5968/5968332.png",
+    "rating": 33,
+    "name": "PhP",
+    "price": "4500",
+    "duration": "3 month",
+    "category_id": "05",
+    "about": "What is PHP? PHP is an acronym for . PHP is a widely-used, open source scripting language. PHP scripts are executed on the server. PHP is free to download and use. PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.PHP is a server-side scripting language created in 1995 by Rasmus Lerdorf. PHP is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTMl."
+  },
+  {
+    "_id": "63579335c8dd278dccbded7a",
+    "view": 150,
+    "picture": "https://as1.ftcdn.net/v2/jpg/03/52/67/82/1000_F_352678266_NFcwIwhhY76mkQItT4lCxyxcCTP3LgvY.jpg",
+    "rating": 2.8,
+    "category_id": "06",
+    "name": "Node JS",
+    "duration": "3 month",
+    "price": "4100",
+    "about": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications.It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node.      "
+  }
+]
